@@ -2,6 +2,8 @@
 
 A collection of ai-slop utility nodes for ComfyUI, including workflow timing, setting extraction, universal name handling, model merging and other.
 
+_Use at your own peril_
+
 ## 📦 Installation
 
 1. Navigate to your ComfyUI custom nodes directory:
@@ -75,4 +77,5 @@ A real-time overlay that appears in the bottom-right corner of your ComfyUI wind
 ## License
 
 MIT
+
 
