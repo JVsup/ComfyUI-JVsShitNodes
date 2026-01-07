@@ -58,7 +58,7 @@ A simple node that logs the execution time of your generation.
 - Connect it to the end of your workflow.
 - Prints the "Finished at" time and completion status to the console in green text.
 
-<img width="212" height="126" alt="{6AEE0563-9CB7-4504-AD39-114B1C379854}" src="https://github.com/user-attachments/assets/eb60f4d4-c70c-424a-9e4e-b97eebb92eec" />
+<img width="212" height="126" alt="{6AEE0563-9CB7-4504-AD39-114B1C379854}" src="https://github.com/user-attachments/assets/eb60f4d4-c70c-424a-9e4e-b97eebb92eec" /><img width="664" height="150" alt="{6FBFC951-DD19-442F-A16C-E0BDE400E282}" src="https://github.com/user-attachments/assets/bce976c4-3354-4e4d-8c72-d77d963366e7" />
 
 ---
 
@@ -75,3 +75,4 @@ A real-time overlay that appears in the bottom-right corner of your ComfyUI wind
 ## License
 
 MIT
+
