@@ -77,10 +77,13 @@ A real-time overlay that appears in the bottom-right corner of your ComfyUI wind
 ## 🧹 Tag Deduplicator
 Efficiently cleans comma-separated strings by removing duplicates while intelligently prioritizing weighted tags over plain text. It ensures that a weighted entry like `(tag:1.5)` automatically replaces a standard `tag`, preserving your intended emphasis while keeping the prompt organized.
 
+<img width="704" height="735" alt="{5B06E5E0-DBFF-42C7-824B-534A91668C76}" src="https://github.com/user-attachments/assets/5e2a0a9f-8843-46bf-8736-939b89a53cd6" />
+
 ---
 
 ## License
 
 MIT
+
 
 
